@@ -4,7 +4,7 @@ function higherOrder(fn) {
 
 higherOrder(function () {
 
-    console.log("tesiuygfdgyui ")
+    console.log("kjhgfdfghjk ")
 
 
 
