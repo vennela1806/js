@@ -4,11 +4,8 @@ function higherOrder(fn) {
 
 higherOrder(function () {
 
-    console.log("Hello world")
+    console.log("ijhugyftdrsewr5tygh")
 
 
-    console.log("new branch added")
 
-
-    console.log("this is main branch standard ")
 });
